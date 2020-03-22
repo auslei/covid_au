@@ -1,0 +1,12 @@
+name: cov19r
+title: cov19r
+username:
+account: auslei
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1976584
+bundleId: 2907669
+url: https://auslei.shinyapps.io/cov19r/
+when: 1584870071.51837
+asMultiple: FALSE
+asStatic: FALSE
